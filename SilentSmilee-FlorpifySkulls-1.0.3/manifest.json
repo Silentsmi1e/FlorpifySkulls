@@ -1,0 +1,9 @@
+{
+  "name": "FlorpifySkulls",
+  "version_number": "1.0.3",
+  "website_url": "https://github.com/Silentsmi1e/FlorpifySkulls",
+  "description": "Mod that lets you Florpify skulls like the old UltraTweaker once did. NOT GOOD YET",
+  "dependencies": [
+  "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
