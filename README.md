@@ -20,6 +20,9 @@ the original florpify
 
 ## Changelog
 
+### v1.0.3
+- Added CHANGELOG.md
+
 ### v1.0.2
 - Added optimization 
 - Added toggle for optimization in config
