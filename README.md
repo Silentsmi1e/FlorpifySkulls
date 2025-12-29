@@ -1,39 +1,34 @@
-# Skull Florpification
-
-Replaces red and blue skulls with Florp variants in ULTRAKILL.
-
-Repo : https://github.com/Silentsmi1e/FlorpifySkulls
-
-## Features
-- Red and Blue Florp variants
-- Fully configurable with BepInEx config
-- Safe and stable
+# Florpify
+Replaces red and blue skulls with Florp.
 
 ## Screenshots
 
-![Red and Blue Florps on Altars](https://raw.githubusercontent.com/Silentsmi1e/FlorpifySkulls/refs/heads/main/FlorpAltars.png)
+![Red and Blue Florps on Altars](https://raw.githubusercontent.com/Silentsmi1e/FlorpifySkulls/refs/heads/main/Altars.png)
 
-![Florp being held by player](https://raw.githubusercontent.com/Silentsmi1e/FlorpifySkulls/refs/heads/main/FlorpHeld.png)
+![Florp being held by player](https://raw.githubusercontent.com/Silentsmi1e/FlorpifySkulls/refs/heads/main/Held.png)
 
 ## Configuration
-Config file is generated at:
+Change whether the mod is enabled or disabled
+or turn on and off optimization (On by default)
 
 BepInEx/config/com.silentsmilee.florpifyskulls.cfg
 
-You can adjust:
--Enabled / Disabled
-- Hand position / rotation / scale
-- Altar position / rotation / scale
-
-## Installation
-1. Install BepInEx for ULTRAKILL
-2. Drop the mod folder into `BepInEx/plugins`
-3. Launch the game
-
-## Compatibility
-- ULTRAKILL
-- BepInEx 5.x
-- Windows / Proton / Wine
-
 ## Credits
 Florp model and assets belong to ULTRAKILL.
+And credit to [Waff1e](https://new.thunderstore.io/c/ultrakill/p/Waff1e/) for making ultratweaker / making
+the original florpify
+
+## Changelog
+
+### v1.0.2
+- Added optimization 
+- Added toggle for optimization in config
+- Fixed hand Florp positioning
+- Fixed altar positioning
+- Changed tinting (subtle)
+
+### v1.0.1
+- Fixed Readme and manifest
+
+### v1.0.0
+- release
