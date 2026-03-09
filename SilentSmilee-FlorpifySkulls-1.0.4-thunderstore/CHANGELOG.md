@@ -1,5 +1,11 @@
 ## Changelog
 
+### v1.0.4
+- Added Florp God mode and Float mode
+- Added functionality with pluginConfigurator
+- Added new held orientation for Florp
+- Fixed Florp texture randomly becoming white
+
 ### v1.0.3
 - Added CHANGELOG.md
 
@@ -15,3 +21,4 @@
 
 ### v1.0.0
 - release
+
